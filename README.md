@@ -5,8 +5,12 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 Attribute Information:
 
-sepal length in cm
-sepal width in cm
-petal length in cm
-petal width in cm
-class: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
+1. sepal length in cm
+2. sepal width in cm
+3. petal length in cm
+4. petal width in cm
+
+class:
+-- Iris Setosa 
+-- Iris Versicolour 
+-- Iris Virginica
